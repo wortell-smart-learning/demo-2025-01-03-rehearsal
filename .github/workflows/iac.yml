@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'infra/**'
-      - '.github/worfklows/iac.yml'
+      - '.github/workflows/iac.yml'
 
 
 
