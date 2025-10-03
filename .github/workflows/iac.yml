@@ -6,6 +6,9 @@ on:
       - main
     paths:
       - 'infra/**'
+      - '.github/worfklows/iac.yml'
+
+
 
 permissions:
   contents: read
